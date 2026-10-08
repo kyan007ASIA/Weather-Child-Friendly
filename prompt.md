@@ -15,3 +15,6 @@
 
 > **User Prompt 4:**
 > Resouces - https://server.smithery.ai/isdaniel/mcp_weather_server
+
+> **User Prompt 5:**
+> git push
