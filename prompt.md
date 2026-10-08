@@ -12,3 +12,6 @@
 > **User Prompt 3:**
 > 1) create a /api folder under the project main to store all the apis
 > 2) create a /api/health.js to monitor if the apis are working
+
+> **User Prompt 4:**
+> Resouces - https://server.smithery.ai/isdaniel/mcp_weather_server
