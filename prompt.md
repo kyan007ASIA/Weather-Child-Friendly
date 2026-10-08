@@ -8,3 +8,7 @@
 
 > **User Prompt 2:**
 > git push <GITHUB_TOKEN>@https://github.com/kyan007ASIA/Weather-Child-Friendly.git
+
+> **User Prompt 3:**
+> 1) create a /api folder under the project main to store all the apis
+> 2) create a /api/health.js to monitor if the apis are working
