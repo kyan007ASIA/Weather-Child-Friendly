@@ -1,0 +1,8 @@
+{
+  "name": "WeatherBuddy - Kids Weather Monitor",
+  "description": "A fun, children-friendly weather monitor connecting to the kyan007 MCP endpoint showing current location weather and 3-day forecasts with cheerful advice.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
